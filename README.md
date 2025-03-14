@@ -1,4 +1,6 @@
-<h2 align="left">```
+
+
+```
   _         _     _                 _    _                                 
  | | ___ __/ |___| |__  _ __   __ _| | _| |__  _   _ _ __ __ _ _ __   __ _ 
  | |/ / '__| / __| '_ \| '_ \ / _` | |/ / '_ \| | | | '__/ _` | '_ \ / _` |
@@ -6,15 +8,13 @@
  |_|\_\_|  |_|___/_| |_|_| |_|\__,_|_|\_\_| |_|\__,_|_|  \__,_|_| |_|\__,_|
                                                                            
 ```
-</h2>
-
 ###
 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kr1shnakhurana&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1shnakhurana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1shnakhurana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=score" height="150" alt="languages graph"  />
 </div>
 
 ###
