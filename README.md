@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://th.bing.com/th/id/OIP.eCtqXF5IR_urZg8sDA4sSwHaEL?rs=1&pid=ImgDetMain](https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-programming-seo-and-pack-animations-3179103.mp4)"  />
+<img align="right" height="150" src="[https://th.bing.com/th/id/OIP.eCtqXF5IR_urZg8sDA4sSwHaEL?rs=1&pid=ImgDetMain](https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-programming-seo-and-pack-animations-3179103.mp4](https://github.com/kr1shnakhurana/kr1shnakhurana/blob/main/public/assets/dev.gif)"  />
 
 ###
 
