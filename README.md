@@ -1,5 +1,4 @@
 
-
   ```
                            _         _     _                    _    _                                 
                           | | ___ __/ |___| |__  _ __   __ _   | | _| |__  _   _ _ __ __ _ _ __   __ _ 
@@ -9,14 +8,7 @@
                                                                                
    ```
 ###
-<html>
-<head>
-  <style>
-    *{
-      background-color:#0d1117;
-    }
-  </style>
-</head>
+<div style="background-color:#0d1117; padding: 20px;">
 <br clear="both">
 
 <div align="center">
@@ -106,10 +98,11 @@
 </div>
 
 ###
-</html>
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kr1shnakhurana/kr1shnakhurana/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
