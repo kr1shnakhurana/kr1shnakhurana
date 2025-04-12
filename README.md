@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/kr1shnakhurana/kr1shnakhurana/blob/main/public/assets/dev.gif?raw=true" />
+<img align="right" height="150" src="https://github.com/kr1shnakhurana/kr1shnakhurana/blob/main/public/assets/Animation - 1744458238695.gif?raw=true" />
 
 ###
 
